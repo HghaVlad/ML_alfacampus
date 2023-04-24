@@ -6,7 +6,7 @@
 - [Решение](finish_result/solution.ipynb)
 
 
-##### Файлы
+### Файлы
 - [Список фичей, используемых в итоговой моделе](ourfeatures/all_columns.csv)
 - [Наши фичи](ourfeatures)
 - [Результаты тестов день 2](day_two/results)
